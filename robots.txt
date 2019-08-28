@@ -1,0 +1,8 @@
+User-agent: *
+disallow: /js/
+disallow: /images/
+disallow: /fonts/
+disallow: /css/
+disallow: /scss/
+
+sitemap: http://henryhaefliger.com/sitemap.xml
