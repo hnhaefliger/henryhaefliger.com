@@ -1,0 +1,32 @@
+@media screen and (min-width: 768px) {
+  #welcome-box {
+    width: 50vw;
+    position: fixed;
+    float: left;
+  }
+}
+
+@media (max-width: 767px) {
+  #welcome-box {
+    width: 100vw;
+  }
+}
+
+@media (min-width: 768px) {
+  #info-box {
+    width: 50vw;
+    float: right;
+  }
+}
+
+@media (max-width: 767px) {
+  #info-box {
+    width: 100vw;
+  }
+}
+
+.icon-btn:hover {
+  color: rgb(255,255,255);
+  text-decoration: none;
+}
+
